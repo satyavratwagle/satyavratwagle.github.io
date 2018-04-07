@@ -42,3 +42,12 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+row {
+    display: flex;
+}
+
+column {
+    flex: 50%;
+}
+
